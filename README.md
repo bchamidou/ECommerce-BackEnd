@@ -77,18 +77,18 @@ The installation can be completed by following these instructions:
 To execute the script, open a Git terminal on the main project folder (cloned folder) Run the following command: npm start
 
 ### Screenshot
-![](![Alt text](<Assets/img/E-Commerce BackEnd video.gif>))
+![Alt text](<Assets/img/E-Commerce BackEnd video.gif>)
 
 ### Video
 A link to the [Walkthrough Video](): 
 
 A link to the Video Part 1. demonstrates on how to run the schema, seed the database, as well as start the server:
 
-    `https://drive.google.com/file/d/1Ewd2t-CrKBhwkmUwmPpQmTxTSiLG4lYx/view`
+     https://drive.google.com/file/d/1Ewd2t-CrKBhwkmUwmPpQmTxTSiLG4lYx/view
 
 A link to the Video Part 2. The video demonstrates the POST, PUT, DELETE, and GET routes using the application, Insomnia.
 
-    `https://drive.google.com/file/d/1cu-VYVSm_wvhrZZW7dlsPSAn6SupUj7Y/view`
+     https://drive.google.com/file/d/1cu-VYVSm_wvhrZZW7dlsPSAn6SupUj7Y/view
 
 ## Contributing
 ***
